@@ -32,7 +32,6 @@ import Prelude
 
 import Data.Foldable (class Foldable)
 import Data.Foldable as Foldable
-import Data.Monoid (mempty)
 import Crypto.Simple as Crypto
 import Data.Int (even)
 import Data.Int.Bits ((.&.), shl, shr)
